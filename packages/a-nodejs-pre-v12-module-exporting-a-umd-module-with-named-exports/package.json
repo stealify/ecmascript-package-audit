@@ -1,0 +1,4 @@
+{
+  "main": "a-nodejs-pre-v12-module-exporting-a-umd-module-with-named-exports.js",
+  "engines": { "node": ">=0.10.3 <12" }
+}

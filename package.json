@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript-package-audit",
+  "version": "0.0.0",
+  "description": "This Package Includes code that is needed to read so called module packages in diffrent formarts and create clean ECMAScript from it.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealify/ecmascript-package-audit.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stealify/ecmascript-package-audit/issues"
+  },
+  "homepage": "https://github.com/stealify/ecmascript-package-audit#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
+    "eslint": "^8.11.0"
+  }
+}

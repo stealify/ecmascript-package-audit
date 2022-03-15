@@ -1,0 +1,1 @@
+{ "//": "This file is designed to have no main fild to fallback to index.js so called dir imports and exports." }
