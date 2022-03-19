@@ -1,4 +1,10 @@
-{ "compilerOptions": {
+{
+  "files": [""],
+  "include": ["packages/**/*"],
+  "exclude": ["builds","node_modules"],
+  "compilerOptions": {
+    "target": "ESNext", // target declarations
+    "lib": ["ESNext"],
     "declaration": false,
     "checkJs": true
   }
